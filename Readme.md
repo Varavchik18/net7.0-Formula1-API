@@ -6,10 +6,11 @@ Here is the technology stack what I used:
 3. Entity framework core (EF7)
 4. SQLite
 5. ef tools
-
-   Here is the terms and solutions what I studied and implemented :
-   1. Unit of work pattern
-   2. Repository
-   3. Configuration files such launchSettings.json
+ 
+ 
+Here is the terms and solutions what I studied and implemented :
+1. Unit of work pattern
+2. Repository pattern
+3. Configuration files such launchSettings.json
 
 As a feature I want to notice a generic class for repository pattern implementation. Such thing I haven't done yet.
